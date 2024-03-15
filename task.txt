@@ -1,0 +1,14 @@
+REST API  - JSON 
+
+
+GET /users - List all users - DONE
+
+GET /users/1 - List user with id 1  - DONE
+GET /users/2 - List user with id 2  - DONE
+
+Dynamic path parameters
+GET /api/users/:id
+:id -> variable 
+
+
+POST /users - Create a new user 
